@@ -12,10 +12,6 @@
 
 - 🔐 I’m currently learning penetration testing 
 
-- 📝 I have written an article that was published on [[https://dev.to/100rabhcsmc](https://dusj.journals.ekb.eg/article_318658.html)]
-
-- 📫 How to reach me **esraa.hamza2022@gmail.com**
-
 <br/>
 
 
