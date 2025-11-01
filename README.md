@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esraa </h1>
-<h3 align="center">Cybersecurity Engineer | Web Penetration Testing & Vulnerability Analysis | Python for Security Automation | Front-End Development</h3>
+<h3 align="center">Web Pentesting Student | Python Security Scripting | Front-End Developer</h3>
 
 
 <br/>
